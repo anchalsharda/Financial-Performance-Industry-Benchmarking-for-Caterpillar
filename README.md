@@ -14,7 +14,7 @@ Developed a detailed report summarizing financial performance, uncovering key bu
 
 **Industry & Competitive Benchmarking:**
 
-Executed a five-year time-series analysis and cross-sectional benchmarking, evaluating critical financial metrics such as profitability, liquidity, solvency, and operating cycle efficiency.
+Executed a five-year time-series segment wise analysis and cross-sectional benchmarking, evaluating critical financial metrics such as profitability, liquidity, solvency, and operating cycle efficiency.
 
 Benchmarked Caterpillar against industry leaders like John Deere to assess competitive advantage and market positioning.
 
